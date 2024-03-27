@@ -29,18 +29,6 @@ function Home2() {
                 <b className="purple"> Java, Javascript and Node.js. </b>
               </i>
               <br />
-<<<<<<< HEAD
-=======
-              {/* <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i> */}
->>>>>>> b9af5eda05b2c5138b55d5493a2d1ba7c2b90d17
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and

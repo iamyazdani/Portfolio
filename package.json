@@ -3,10 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "@popperjs/core": "^2.11.8",
-=======
->>>>>>> b9af5eda05b2c5138b55d5493a2d1ba7c2b90d17
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -21,11 +18,7 @@
     "react-parallax-tilt": "^1.7.42",
     "react-pdf": "^5.7.1",
     "react-router-dom": "^6.2.2",
-<<<<<<< HEAD
     "react-scripts": "^5.0.0",
-=======
-    "react-scripts": "5.0.0",
->>>>>>> b9af5eda05b2c5138b55d5493a2d1ba7c2b90d17
     "react-tsparticles": "^1.42.2",
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
